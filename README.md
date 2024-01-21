@@ -8,7 +8,7 @@ Cooking up wicked code, gaming like a boss, and staying ahead of the tech curve.
 
 ## 🌱 I'm currently learning...
 
-The art of domination in [Insert current tech interest here]. Elevating my skills to the next level because in this game, you either evolve or get left in the digital dust.
+The art of domination in digital streets. Elevating my skills to the next level because, in this game, you either evolve or get left in the digital dust.
 
 ## 💞️ I’m looking to collaborate on...
 
