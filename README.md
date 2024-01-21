@@ -1,4 +1,3 @@
-```markdown
 # 👋 Yo, I'm @ivanj69pn - The Digital Thug
 
 Sup fam! I'm Ivan, an Eastern European thug in the coding game, disrupting the tech scene one byte at a time. Here's the lowdown:
@@ -22,5 +21,3 @@ Thug Life
 ## ⚡ Fun fact:
 
 I once coded a bot to drop virtual mic bombs in the digital streets. Yeah, I'm that kinda thug. Watch out!
-
-```
